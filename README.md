@@ -41,4 +41,3 @@ shop-management/
 │   └── logo.png         # 界面图片或图标
 ├── requirements.txt     # 依赖库说明（如 tkinter、opencv、dlib 等）
 └── README.md            # 项目说明文件
-```
