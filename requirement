@@ -1,0 +1,16 @@
+text
+# GUI
+tkinter
+
+# 数据处理
+numpy
+pandas
+
+# 数据库
+mysql-connector-python   # 如果用 MySQL
+# sqlite3                # 如果只用 SQLite，可以不用写，Python 自带
+
+# 图像处理 / 人脸识别
+opencv-python
+dlib
+Pillow
