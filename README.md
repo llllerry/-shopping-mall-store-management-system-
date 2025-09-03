@@ -27,3 +27,16 @@ A shop management system based on Python, Tkinter, MySQL and OpenCV
 ---
 
 ## 📂 项目结构
+shop-management/
+├── main.py              # 程序入口，运行后启动界面
+├── db/
+│   └── shop.db          # SQLite 数据库文件
+├── src/
+│   ├── login.py         # 登录与注册模块
+│   ├── shop.py          # 店铺管理模块（增删改查）
+│   ├── face_recog.py    # 人脸识别模块（OpenCV + Dlib）
+│   └── utils.py         # 工具函数（数据库连接、通用方法）
+├── assets/
+│   └── logo.png         # 界面图片或图标
+├── requirements.txt     # 依赖库说明（如 tkinter、opencv、dlib 等）
+└── README.md            # 项目说明文件
