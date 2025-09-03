@@ -27,7 +27,8 @@ A shop management system based on Python, Tkinter, MySQL and OpenCV
 ---
 
 ## 📂 项目结构
-```shop-management/
+```text
+shop-management/
 ├── main.py              # 程序入口，运行后启动界面
 ├── db/
 │   └── shop.db          # SQLite 数据库文件
