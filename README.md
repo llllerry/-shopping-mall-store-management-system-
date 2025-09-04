@@ -2,7 +2,7 @@
 A shop management system based on Python, Tkinter, MySQL and OpenCV
 # 🏬 Shopping Mall Management System
 
-一个基于 **Python (tkinter + SQLite)** 的简易商场管理系统。  
+一个基于 **Python (tkinter + MySQL)** 的简易商场管理系统。  
 本项目旨在提供一个完整的商场人员与店铺管理解决方案，包括 **登录认证、数据管理、可视化界面** 等功能。
 
 ---
@@ -17,7 +17,7 @@ A shop management system based on Python, Tkinter, MySQL and OpenCV
   - 信息包括：店铺名称、类型、营业额、负责人及联系方式等  
 
 - **数据库支持**  
-  - 使用 SQLite 本地数据库  
+  - 使用 MyQSL 本地数据库  
   - 数据持久化保存  
 
 - **界面设计**  
