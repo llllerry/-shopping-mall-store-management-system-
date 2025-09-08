@@ -29,7 +29,7 @@ A shop management system based on Python, Tkinter, MySQL and OpenCV
 
 为控制仓库体积，模型文件不随代码提交。请手动放置到 `models/` 目录（需自行下载）：
 
-- `shape_predictor_68_face_landmarks.dat`
+- `shape_predictor_68_face_landmarks.dat`（由于无法上传大于25m的文件，so放个网盘链接吧）
 - `dlib_face_recognition_resnet_model_v1.dat`
 
 步骤：
