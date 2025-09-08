@@ -25,6 +25,17 @@ A shop management system based on Python, Tkinter, MySQL and OpenCV
   - 支持基本交互操作  
 
 ---
+## 🤖 人脸识别模型文件
+
+为控制仓库体积，模型文件不随代码提交。请手动放置到 `models/` 目录（需自行下载）：
+
+- `shape_predictor_68_face_landmarks.dat`
+- `dlib_face_recognition_resnet_model_v1.dat`
+
+步骤：
+1. 在项目根目录创建 `models/`（仓库已含占位文件也可）。
+2. 将上述两个 `.dat` 文件拷入 `models/`。
+3. 运行 `python main.py`。程序会自动检测；若未找到，会弹出文件选择框让你定位文件路径。
 
 ## 📂 项目结构
 ```text
