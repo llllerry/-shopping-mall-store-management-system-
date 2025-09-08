@@ -21,5 +21,6 @@ Thumbs.db
 # VSCode 配置（如果你用 VSCode）
 .vscode/
 
-# PyCharm 配置（如果你用 PyCharm）
-.idea/
+# 模型文件（不提交）
+models/*.dat
+
