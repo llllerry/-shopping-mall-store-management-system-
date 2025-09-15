@@ -1,3 +1,4 @@
+# 店铺管理系统
 # -shopping-mall-store-management-system-
 A shop management system based on Python, Tkinter, MySQL and OpenCV
 # 🏬 Shopping Mall Management System
